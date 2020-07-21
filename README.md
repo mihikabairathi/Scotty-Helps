@@ -29,7 +29,8 @@ We're going to try to improve the user-interface to make it more dynamic and int
 ## Installation
 
 Run these commands:
-```  $ gem install bundler
+```
+$ gem install bundler
 $ bundle install
 $ gem install
 ```
