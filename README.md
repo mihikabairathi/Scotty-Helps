@@ -20,17 +20,3 @@ We learnt a lot of new concepts like data scraping, wrangling, and deployment, b
 
 ## What's next for Scotty Helps
 We're going to try to improve the user-interface to make it more dynamic and interesting for the user.
-
-## How to run
-
-<pre><code>  $ python3 -m config_script [--help] path/to/config/file path/to/output
-</code></pre>
-
-## Installation
-
-Run these commands:
-```
-$ gem install bundler
-$ bundle install
-$ gem install
-```
